@@ -1,2 +1,2 @@
 # DCEA
-A novel clustering-based evolutionary algorithm with objective space decomposition for multi/many-objective optimization
+A novel clustering-based evolutionary algorithm with objective space decomposition for multi/many-objective optimization, Information Sciences, 2024.
